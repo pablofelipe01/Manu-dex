@@ -10,6 +10,8 @@ import { ChakraProvider, ColorModeScript } from '@chakra-ui/react';
 // You can also import additional chains from `@thirdweb-dev/chains` and pass them directly.
 const activeChain = "polygon";
 
+
+
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThirdwebProvider

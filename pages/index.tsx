@@ -24,8 +24,8 @@ import {
 import SwapInput from "../components/SwapInput";
 
 const Home = () => {
-  const TOKEN_CONTRACT = "0x680a120F656553f075100801Aadea8E6EbEc510E";
-  const DEX_CONTRACT = "0xCbEF31fcC06c7f45388964690d8985D7a68f79BF";
+  const TOKEN_CONTRACT = "0x40798ad1280a8d323aA80E814B2Cbe0d4Ff6d36e";
+  const DEX_CONTRACT = "0x79b7A843335932c264e6a84b81aa791a61C0e87F";
 
   const sdk = useSDK();
   const address = useAddress();
